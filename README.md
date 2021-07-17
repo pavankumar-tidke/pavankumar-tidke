@@ -4,6 +4,12 @@
 
  <h1>Hi 👋, I'm Pavankumar </h1>
 
+ <audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 <!--
 **userpavankumar/userpavankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
