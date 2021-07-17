@@ -2,19 +2,24 @@
 <body>
 
 
-# Hi 👋, I'm [Pavankumar][website]
+<h1 align="center"> Hi 👋, I'm Pavankumar</h1>
 
+<!-- ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 -->
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Gamer, Developer, and Good Friend!!!
+## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my Django Website: An E - Commenece website fully functional and dynamic][E-com]!
-- 🌱 I’m currently learning Django Framework (Practicing with Learning)
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
+
+<!-- ### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
 
@@ -22,8 +27,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=300&h=300" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -50,7 +54,5 @@
 <br />
 
 ---
-
-
 
 </body>
