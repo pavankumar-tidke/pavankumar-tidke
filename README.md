@@ -5,7 +5,7 @@
 <h1 align="center"> Hi 👋, I'm Pavankumar</h1>
 
 
-<h2 align="center"> I'm a  Developer, Programmer!!</h2>
+<h2 align="center"> I'm a  Developer, Programmer & sometimes gamer!!</h2>
 
 
 
