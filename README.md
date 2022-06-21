@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> 📫 How to reach me **pavankumartidke@gmail.com**</p>
+<p align="left"> 📫 Reach me using this virtual address <b> pavankumartidke@gmail.com  </b> </p>
 
 
 
