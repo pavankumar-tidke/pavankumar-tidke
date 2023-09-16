@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm <b> Pavankumar </b> from Parli Vaijanath  <br><br>- 🔭 I’m seeking for fulltime job as <br>- 📚 I'm currently learning AI/ML. <br>- ⚡ In my free time I do IoT .</p>
 
 ###
 
@@ -67,7 +67,7 @@
 
 
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavankumar-tidke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankumar-tidke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
