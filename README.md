@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm <b> Pavankumar </b> from Parli Vaijanath  <br><br>- 🔭 I’m seeking for fulltime job as <br>- 📚 I'm currently learning AI/ML. <br>- ⚡ In my free time I do IoT .</p>
+<p align="left">I'm <b> Pavankumar </b> from Parli Vaijanath  <br><br>- 🔭 I’m seeking for fulltime job as <br>- 📚 Exploring the fascinating realms of AI, ML, LLM, and the dynamic cyber world. <br>- ⚡ During my leisure hours, I engage in the captivating world of IoT and robotics.</p>
 
 ###
 
