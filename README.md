@@ -10,11 +10,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pavankumar-tidke/">
+  <a href="https://www.linkedin.com/in/pavankumar-tidke/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <a href="https://g.dev/pavank">
+  <a href="https://g.dev/pavank" target="_blank">
     <img src="https://img.shields.io/static/v1?message=google&logo=google&label=&color=1DA1F2&logoColor=DB4437&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
