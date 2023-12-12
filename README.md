@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm <b> Pavankumar </b> from Parli Vaijanath  <br><br>- 🔭 I’m seeking for fulltime job as I'am... <br>- 📚 Currently exploring the fascinating realms of AI, ML, LLM, and the dynamic cyber world and in my... <br>- ⚡ Leisure hours, I engage in the captivating world of IoT and robotics.</p>
+<p align="left">I'm <b> Pavankumar </b> from Parli Vaijanath ૐ <br><br>- 🔭 I’m seeking for fulltime job as I'am... <br>- 📚 Currently exploring the fascinating realms of AI, ML, LLM, and the dynamic cyber world and in my... <br>- ⚡ Leisure hours, I engage in the captivating world of IoT and robotics.</p>
 
 ###
 
