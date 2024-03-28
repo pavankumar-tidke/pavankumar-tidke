@@ -39,7 +39,7 @@
 ###
 
 <p align="left">I'm <b> Pavankumar </b> from 
-  <a href="https://g.dev/pavank" target="_blank">
+  <a href="https://maps.app.goo.gl/3ZZfYYm87XPkSFm99" target="_blank">
     Parli Vaijanath ૐ
   </a>
   <br><br>- 🔭 I’m seeking for fulltime job as I'am... <br>- 📚 Currently exploring the fascinating realms of AI, ML, LLM, and the dynamic cyber world and in my... <br>- ⚡ Leisure hours, I engage in the captivating world of IoT and robotics.</p>
